@@ -1,3 +1,3 @@
-Refer `./docs/vrmc_springbone.md` about the algorithm of springbone.
-Refer `./docs/springbone_runtime_en.md` about the technical decision.
+Refer to `./docs/vrmc_springbone.md` for the algorithm of springbone.
+Refer to `./docs/springbone_runtime_en.md` for the technical decision.
 Blender API: `https://docs.blender.org/api/5.3/`
