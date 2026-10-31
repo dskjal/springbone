@@ -3,6 +3,8 @@
 A Blender 5.3 add-on that simulates spring bones (secondary motion) in the viewport
 **without playing the timeline**.
 
+![](https://github.com/dskjal/springbone/blob/main/springbone.gif)
+
 [Japanese Language](./README_ja.md).
 
 The simulation is driven by `bpy.app.timers` on the main thread, so bones react while you
